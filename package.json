@@ -1,0 +1,27 @@
+{
+  "name": "htlm-css-linters",
+  "version": "1.0.0",
+  "description": "in this repositry i am setting up linters for html and css project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Livingstone06/htlm-css-linters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Livingstone06/htlm-css-linters/issues"
+  },
+  "homepage": "https://github.com/Livingstone06/htlm-css-linters#readme",
+  "devDependencies": {
+    "hint": "^7.1.13",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
